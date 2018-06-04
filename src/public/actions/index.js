@@ -14,7 +14,7 @@ export const IOS_CLIENT_CLICK = 'GetClient.Ios.Click';
 export const API_DOCUMENTATION_CLICK = 'DocumentationClick';
 export const API_CLIENT_CLICK = 'ClientApiClick';
 export const TESRAB_NODE_CLICK = 'TesrabNodeClick';
-export const WAVES_NODE_INSTALL_CLICK = 'WavesNodeInstallClick';
+export const TESRAB_NODE_INSTALL_CLICK = 'TesrabNodeInstallClick';
 export const DEX_API_CLICK = 'DexApiClick';
 
 // files downloads
