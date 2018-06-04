@@ -55,7 +55,7 @@ export const getElectronLinuxClick = createAC(ELECTRON_CLIENT_LINUX_CLICK);
 export const apiDocumentationClick = createAC(API_DOCUMENTATION_CLICK);
 export const apiClientClick = createAC(API_CLIENT_CLICK);
 export const dexApiClick = createAC(DEX_API_CLICK);
-export const wavesNodeClick = createAC(WAVES_NODE_CLICK);
+export const TesrabNodeClick = createAC(TESRAB_NODE_CLICK);
 export const wavesNodeInstallClick = createAC(WAVES_NODE_INSTALL_CLICK);
 
 // files downloads
