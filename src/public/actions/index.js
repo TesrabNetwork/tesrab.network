@@ -44,7 +44,7 @@ const createAC = type => meta => ({
 // our products
 export const newClientClick = createAC(ONLINE_BETA_CLIENT_CLICK);
 export const getClientClick = createAC(ONLINE_CLIENT_CLICK);
-export const getWavesClick = createAC(GET_WAVES_CLICK);
+export const getTNWClick = createAC(GET_TNW_CLICK);
 export const androidClientClick = createAC(ANDROID_CLIENT_CLICK);
 export const iosClientClick = createAC(IOS_CLIENT_CLICK);
 export const getElectronWindowsClick = createAC(ELECTRON_CLIENT_WINDOWS_CLICK);
