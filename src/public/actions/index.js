@@ -6,7 +6,7 @@ export const ELECTRON_CLIENT_WINDOWS_CLICK = 'GetClient.Windows.Click';
 export const ELECTRON_CLIENT_MAC_CLICK = 'GetClient.Mac.Click';
 export const ELECTRON_CLIENT_LINUX_CLICK = 'GetClient.Linux.Click';
 
-export const GET_WAVES_CLICK = 'GetWavesClick';
+export const GET_TNW_CLICK = 'GetTNWClick';
 export const ANDROID_CLIENT_CLICK = 'GetClient.Android.Click';
 export const IOS_CLIENT_CLICK = 'GetClient.Ios.Click';
 
