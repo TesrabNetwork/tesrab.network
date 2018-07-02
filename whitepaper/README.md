@@ -2,10 +2,10 @@
 
 
 <p align="center">
-Bruce Fenton<br>
-Tron Black<br>
-http://www.ravencoin.org<br>
-3rd April 2018
+realChain Life<br>
+Johnny Dav<br>
+https://tesrab.network/<br>
+1st July 2018
 </p>
 <p align="center"><i>
 In the fictional world of Westeros, ravens are used as messengers who carry statements of truth. Ravencoin is a use-case focused blockchain designed to carry statements of truth about who owns what assets.
