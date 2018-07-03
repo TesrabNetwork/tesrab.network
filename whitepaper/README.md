@@ -13,7 +13,7 @@ transactions. The Tesrab Network project is built on the foundation of the hard 
 
 > **Abstract**. Tesrab Network is a fully decentralized, multi-purpose, transparent and auditable blockchain platform built on top of the Waves Platform. A privacy and trustless verification focused system is not an opt-in variable and by building on top of the optimized Waves Platform REST API, users have access to all blockchain data (transaction history, balances, etc.) as well as operations for creating a new transactions — it’s easy to make a transfer, from one holder to another, or exchange of assets (tokens and coins) programmatically. Tesrab Network Tokens ($TNW) will be fairly and transparently issued after a dutch auction Initial Coin Offering using a series of smart contracts executed by Proof of Stake (POS) algorightm on Waves Platform. Private, public, founder, or developer allocation are highlighted in the token specification section. Tesrab Network is free and open source software - open for use and development in any jurisdiction, yet allowing simple additional features for user-based needs.
 
-\
+
 ## 1. Introduction
 
 A blockchain is a ledger showing the quantity of something controlled by a user. It enables one to transfer control of that digital representation to someone else. Of the many possible uses for blockchain technology, the reporting of who owns what is one of its core functions. This is likely why the first, and to date most successful, use case for blockchain technology has been Bitcoin, which was announced by Satoshi Nakamoto on October 31, 2008[1].
