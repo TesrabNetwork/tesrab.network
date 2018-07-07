@@ -212,7 +212,7 @@ Tesrab Network is a platform coin built on the UTXO[19] model of Bitcoin. Modify
 
 The Tesrab Network project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesrab Network blockchain.
 
-_The Inuit, Tlinglit, Tahitian, Chukchi, Sioux, the Haida, and many others call Raven the magical keeper of secrets, the trickster, friend of the First Men and Creator of the World - an idea or force able to shift, change, and create something from nothing. In open source, the power of the crowd can accomplish much more than any one person or organization. All are welcome to contribute._
+_In open source, the power of the crowd can accomplish much more than any one person or organization. All are welcome to contribute._
 
 ---
 
