@@ -220,7 +220,7 @@ References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
 [5] https://en.bitcoin.it/wiki/OP_RETURN  
-[6] https://bitcoinwisdom.com/bitcoin/difficulty  
+ 
 
 [8] https://github.com/Dexaran/ERC223-token-standard  
 [9] https://www.ethereum.org/  
