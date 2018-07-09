@@ -219,17 +219,14 @@ _In open source, the power of the crowd can accomplish much more than any one pe
 References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
-
- 
-
-[8] https://github.com/Dexaran/ERC223-token-standard  
-[9] https://www.ethereum.org/  
-[10] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
-[11] B. Fenton, “Tesrab Network: A digital peer to peer network for the facilitation of asset transfers.” https://medium.com/@Tesrab Network/Tesrab Network-4683cd00f83c  
-[12] https://github.com/tesrabnetwork/tesrab-network  
-[13] T. Black, J. Weight “X16R” Algorithm White Paper https://Tesrab Network.org/wp-content/uploads/2018/03/X16R-Whitepaper.pdf  
-[14] [http://coinspark.org/developers/assets-introduction/](http://coinspark.org/developers/assets-introduction/)  
-[15] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
-[16] https://www.forbes.com/2008/09/23/naked-shorting-trades-oped-cx_pb_0923byrne.html#63076e102e6c  
-[17] https://en.wikipedia.org/wiki/Delegative_democracy  
-[18] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
+[2] https://github.com/Dexaran/ERC223-token-standard  
+[3] https://www.ethereum.org/  
+[4] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
+[5] B. Fenton, “Tesrab Network: A digital peer to peer network for the facilitation of asset transfers.” https://medium.com/@Tesrab Network/Tesrab Network-4683cd00f83c  
+[6] https://github.com/tesrabnetwork/tesrab-network  
+[7] T. Black, J. Weight “X16R” Algorithm White Paper https://Tesrab Network.org/wp-content/uploads/2018/03/X16R-Whitepaper.pdf  
+[8] [http://coinspark.org/developers/assets-introduction/](http://coinspark.org/developers/assets-introduction/)  
+[9] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
+[10] https://www.forbes.com/2008/09/23/naked-shorting-trades-oped-cx_pb_0923byrne.html#63076e102e6c  
+[11] https://en.wikipedia.org/wiki/Delegative_democracy  
+[12] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
