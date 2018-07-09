@@ -208,7 +208,7 @@ Other projects can use this chain. Second layer solutions, particularly those be
 
 ## 12. Conclusion
 
-Tesrab Network is a platform coin built on the UTXO[19] model of Bitcoin. Modifying Bitcoin code to add these capabilities is not practical, but Tesrab Network is a platform built from a code fork and issuing newly mined RVN. Tesrab Network will be adding assets, rewards, unique assets, messaging, and voting. The Raven protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed allow users and developers to maintain a secure, decentralized, and tamper resistant network.
+Tesrab Network is a platform project built on the UTXO[19] model of Bitcoin. Modifying Bitcoin code to add these capabilities is not practical, but Tesrab Network is a platform built from a code fork and issuing TNW. Tesrab Network will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed allow users and developers to maintain a secure, decentralized, and tamper resistant network.
 
 The Tesrab Network project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesrab Network blockchain.
 
