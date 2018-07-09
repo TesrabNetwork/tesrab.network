@@ -219,7 +219,6 @@ _In open source, the power of the crowd can accomplish much more than any one pe
 References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf  
-[3] https://counterparty.io/  
 [4] https://en.bitcoin.it/wiki/Colored_Coins  
 [5] https://en.bitcoin.it/wiki/OP_RETURN  
 [6] https://bitcoinwisdom.com/bitcoin/difficulty  
