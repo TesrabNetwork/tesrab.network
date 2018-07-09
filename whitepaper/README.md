@@ -219,7 +219,6 @@ _In open source, the power of the crowd can accomplish much more than any one pe
 References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
-[2] https://github.com/Dexaran/ERC223-token-standard  
 [3] https://www.ethereum.org/  
 [4] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
 [5] B. Fenton, “Tesrab Network: A digital peer to peer network for the facilitation of asset transfers.” https://medium.com/@Tesrab Network/Tesrab Network-4683cd00f83c  
