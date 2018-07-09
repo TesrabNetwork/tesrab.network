@@ -227,5 +227,4 @@ References
 [8] [http://coinspark.org/developers/assets-introduction/](http://coinspark.org/developers/assets-introduction/)  
 [9] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
 [10] https://www.forbes.com/2008/09/23/naked-shorting-trades-oped-cx_pb_0923byrne.html#63076e102e6c  
-[11] https://en.wikipedia.org/wiki/Delegative_democracy  
 [12] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
