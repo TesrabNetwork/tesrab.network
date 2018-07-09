@@ -221,7 +221,6 @@ References
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
 [2] https://www.ethereum.org/  
 [3] Tesrab Network: A fully functional decentralized exchange as an open blockchain platform. https://medium.com/tesrab-network/54d74964f72e         
-[4]  
 [5] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
 [6] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
 [7] https://github.com/tesrabnetwork/tesrab-network 
