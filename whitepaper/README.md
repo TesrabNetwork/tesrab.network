@@ -220,7 +220,7 @@ References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
 [3] https://www.ethereum.org/  
-[4] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
+
 [5] B. Fenton, “Tesrab Network: A digital peer to peer network for the facilitation of asset transfers.” https://medium.com/@Tesrab Network/Tesrab Network-4683cd00f83c  
 [6] https://github.com/tesrabnetwork/tesrab-network  
 [9] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
