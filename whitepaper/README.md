@@ -203,7 +203,7 @@ As capabilities like messaging, assets, and rewards are added, privacy will be p
 “Therefore, privacy in an open society requires anonymous transaction systems. Until now, cash has been the primary such system. An anonymous transaction system is not a secret transaction system. An anonymous system empowers individuals to reveal their identity when desired and only when desired; this is the essence of privacy.” (E. Hughes)[18].
 
 
-## 12. Conclusion
+## 11. Conclusion
 
 Tesrab Network is a platform project built on the UTXO[19] model of Bitcoin. Modifying Bitcoin code to add these capabilities is not practical, but Tesrab Network is a platform built from a code fork and issuing TNW. Tesrab Network will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed allow users and developers to maintain a secure, decentralized, and tamper resistant network.
 
