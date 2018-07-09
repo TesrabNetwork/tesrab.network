@@ -221,7 +221,7 @@ References
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
 [5] https://en.bitcoin.it/wiki/OP_RETURN  
 [6] https://bitcoinwisdom.com/bitcoin/difficulty  
-[7] https://theethereum.wiki/w/index.php/ERC20_Token_Standard  
+
 [8] https://github.com/Dexaran/ERC223-token-standard  
 [9] https://www.ethereum.org/  
 [10] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
