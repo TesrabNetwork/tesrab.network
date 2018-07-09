@@ -219,7 +219,7 @@ _In open source, the power of the crowd can accomplish much more than any one pe
 References
 
 [1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System https://bitcoin.org/bitcoin.pdf   
-[5] https://en.bitcoin.it/wiki/OP_RETURN  
+
  
 
 [8] https://github.com/Dexaran/ERC223-token-standard  
