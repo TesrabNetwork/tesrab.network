@@ -223,7 +223,6 @@ References
 [4] W. Dei, “B-Money” [http://www.weidai.com/bmoney.txt](http://www.weidai.com/bmoney.txt)  
 [5] B. Fenton, “Tesrab Network: A digital peer to peer network for the facilitation of asset transfers.” https://medium.com/@Tesrab Network/Tesrab Network-4683cd00f83c  
 [6] https://github.com/tesrabnetwork/tesrab-network  
-[7] T. Black, J. Weight “X16R” Algorithm White Paper https://Tesrab Network.org/wp-content/uploads/2018/03/X16R-Whitepaper.pdf  
 [8] [http://coinspark.org/developers/assets-introduction/](http://coinspark.org/developers/assets-introduction/)  
 [9] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
 [12] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
