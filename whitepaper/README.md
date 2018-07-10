@@ -17,8 +17,6 @@ transactions. The Tesrab Network project Tesradex is built on the foundation of 
 
 A blockchain is a ledger showing the quantity of something controlled by a user. It enables one to transfer control of that digital representation to someone else. Of the many possible uses for blockchain technology, the reporting of who owns what is one of its core functions. This is likely why the first, and to date most successful, use case for blockchain technology has been Bitcoin, which was announced by Satoshi Nakamoto on October 31, 2008[1].
 
-The Ethereum ERC20 protocol and other projects show tokenized assets that use another blockchain can be created with a wide variety of purposes and structures. Tokens offer several advantages to traditional shares or other participation mechanisms, e.g. faster transfer speed, increased user control and censorship resistance, and a reduction or elimination of the need for a trusted third party.
-
 Bitcoin also has the capability of serving as the rails for tokens by using projects like Omnilayer, RSK, or Counterparty. However, neither Bitcoin nor Ethereum were specifically designed for facilitating ownership of additional assets, and the users and development teams generally prioritize other features.
 
 Tesrab Network is designed to efficiently handle one specific function well: the transfer of assets from one party to another. One goal of the Raven protocol is to create a use case focused blockchain and development effort which can create code, providing advantages for specific use cases, while contributing to open source code which could be used by Bitcoin or other projects.
@@ -27,7 +25,8 @@ If the global economy is influenced by actors using various blockchains, then th
 
 ## 2. Assets Background & Problem Statements
 
-On January 3, 2009, Bitcoin was launched as a peer-to-peer electronic cash system. Years later, after it achieved a notable level of security, it was recognized that assets could be created "on top of" or embedded in the Bitcoin blockchain. New assets can be added to the Bitcoin blockchain by creating secure, signed, immutable bitcoin transactions which also carry information on asset issuance, and transfer.
+On January 3, 2009, Bitcoin was launched as a peer-to-peer electronic cash system. Years later, the Ethereum ERC20 protocol and other projects show tokenized assets that use another blockchain can be created with a wide variety of purposes and structures. Tokens offer several advantages to traditional shares or other participation mechanisms, e.g. faster transfer speed, increased user control and censorship resistance, and a reduction or elimination of the need for a trusted third party.
+after it achieved a notable level of security, it was recognized that assets could be created "on top of" or embedded in the Bitcoin blockchain. New assets can be added to the Bitcoin blockchain by creating secure, signed, immutable bitcoin transactions which also carry information on asset issuance, and transfer.
 
 An exchange is not decentralized if it can lose, freeze or destroy customer funds OR if it can freeze customer funds. If it can do BOTH. It's a false sense of decentralization. The fact the DEX teams have the ability to freeze funds with a built-in kill switch that's an exclusively centrally controlled exchange feature is not only worrisome but forces uses to consider intently what it means to build a decentralized assets trading platform  
 
