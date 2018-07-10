@@ -36,10 +36,6 @@ One of the main features of the blockchain environment is decentralization, but 
 The use of a decentralized approach in the entity of an exchange helps to avoid the involvement of many users assets into problems caused by the danger of front running by intruders into the work of exchange. Yet an exchange is not decentralized if it can lose, freeze or destroy customer funds. If it can do BOTH. It's a false sense of decentralization. At the end points, exchanges are not decentralized, nor do users control their coins if backdoors are a security necessity. The fact DEX teams have the ability to freeze funds with a built-in kill switch that's an exclusively centrally controlled exchange feature is not only worrisome but forces uses to consider intently what it means to build a decentralized assets trading platform.  
 
 
-
- Smart contracts can be confusing for users as there can be multiple ERC20 tokens with identical names. The only distinction between contracts with identical
-names is the contract hash.
-
 ## 3. Full Asset Aware Protocol Level System
 
 <p align="center"><i>
