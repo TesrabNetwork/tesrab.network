@@ -26,7 +26,7 @@ Tesrab Network is designed to efficiently handle one specific function well: the
 
 If the global economy is influenced by actors using various blockchains, then the way capital markets work today could also change. Borders and jurisdictions may become less relevant as more assets become tradable and trading across borders grows increasingly frictionless. In an age where people can move significant amounts of wealth instantly using Bitcoin, global consumers will likely demand the same efficiency for their securities and similar asset holdings.
 
-## 2. Background Tokens and Other Assets
+## 2. Background Tokens
 
 On January 3, 2009, Bitcoin was launched as a peer-to-peer electronic cash system. Years later, after it achieved a notable level of security, it was recognized that assets could be created "on top of" or embedded in the Bitcoin blockchain. New assets can be added to the Bitcoin blockchain by creating secure, signed, immutable bitcoin transactions which also carry information on asset issuance, and transfer.
 
