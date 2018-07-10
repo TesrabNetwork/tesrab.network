@@ -27,7 +27,7 @@ If the global economy is influenced by actors using various blockchains, then th
 
 On January 3, 2009, Bitcoin was launched as a peer-to-peer electronic cash system. Years later, the Ethereum ERC20 protocol and other projects showed tokenized assets that use another blockchain can be created with a wide variety of purposes and structures. Tokenization (_the process of converting and storing the value world assets on "thegreatcoin"_) which offered several advantages to traditional shares or other participation mechanisms was recognized.  
 
-after it achieved a notable level of security, it was recognized that assets could be created "on top of" or embedded in the Bitcoin blockchain. New assets can be added to the Bitcoin blockchain by creating secure, signed, immutable bitcoin transactions which also carry information on asset issuance, and transfer.
+Over the years as notable levels of security of the various networks was , it was recognized that assets could be created "on top of" or embedded in the Bitcoin blockchain. New assets can be added to the Bitcoin blockchain by creating secure, signed, immutable bitcoin transactions which also carry information on asset issuance, and transfer.
 
 An exchange is not decentralized if it can lose, freeze or destroy customer funds OR if it can freeze customer funds. If it can do BOTH. It's a false sense of decentralization. The fact the DEX teams have the ability to freeze funds with a built-in kill switch that's an exclusively centrally controlled exchange feature is not only worrisome but forces uses to consider intently what it means to build a decentralized assets trading platform  
 
