@@ -1,4 +1,4 @@
-<h1 align="center">Tesradex:A Decentralized Exchange Service for Instant Conversion of Crypto-Assets </h1>
+<h1 align="center">Tesradex: A Decentralized Exchange Service for Instant Conversion of Crypto-Assets </h1>
 
 
 <p align="center">
@@ -10,7 +10,7 @@ https://tesrab.network/<br>
 Bitcoin, the first peer-to-peer electronic cash system, opened the door to permissionless, private, and trustless
 transactions. The Tesrab Network project Tesradex is built on the foundation of the hard work and continuous effort of Bitcoin and other blockchains developers over the last nine years. Our launch is grounded on the appreciation for these developers diligence in making secure networks and their support of free and open source software development.  
 
-> **Abstract**. Tesradex is a fully decentralized, multi-purpose, transparent and auditable blockchain platform built on top of the Waves Platform. A privacy and trustless verification focused system is not an opt-in variable and by building on top of the optimized Waves Platform REST API, users have access to all blockchain data (transaction history, balances, etc.) as well as operations for creating a new transactions — it’s easy to make a transfer, from one holder to another, or exchange of assets (tokens and coins) programmatically. Tesrab Network Tokens ($TNW) will be fairly and transparently issued after a dutch auction Initial Coin Offering using a series of smart contracts executed by Proof of Stake (POS) algorithm on Waves Platform. Private, public, founder, or developer allocation are highlighted in the token specification section. Tesrab Network is free and open source software - open for use and development in any jurisdiction, yet allowing simple additional features for user-based needs.
+> **Abstract**. Tesradex is a fully decentralized, multi-purpose, transparent and auditable blockchain platform built on top of the Waves Platform. A privacy and trustless verification focused system is not an opt-in variable and by building on top of the optimized Waves Platform REST API, users have access to all blockchain data (transaction history, balances, etc.) as well as operations for creating a new transactions — it’s easy to make a transfer, from one holder to another, or exchange of assets (tokens and coins) programmatically. Tesrab Network Tokens ($TNW) will be fairly and transparently issued after a dutch auction Initial Coin Offering using a series of smart contracts executed by Proof of Stake (POS) algorithm on Waves Platform. Private, public, founder, or developer allocation are highlighted in the token specification section. Tesradex is run on a free and open source software - open for use and development in any jurisdiction, yet allowing simple additional features for user-based needs.
 
 
 ## 1. Introduction
@@ -19,7 +19,7 @@ A blockchain is a ledger showing the quantity of something controlled by a user.
 
 Bitcoin also has the capability of serving as the rails for tokens by using projects like Omnilayer, RSK, or Counterparty. However, neither Bitcoin nor Ethereum were specifically designed for facilitating ownership of additional assets, and the users and development teams generally prioritize other features.
 
-Tesrab Network is designed to efficiently handle one specific function well: the transfer of assets from one party to another. One goal of the Raven protocol is to create a use case focused blockchain and development effort which can create code, providing advantages for specific use cases, while contributing to open source code which could be used by Bitcoin or other projects.
+Tesradex is designed to efficiently handle one specific function well: the transfer of assets from one party to another. One goal of the Raven protocol is to create a use case focused blockchain and development effort which can create code, providing advantages for specific use cases, while contributing to open source code which could be used by Bitcoin or other projects.
 
 If the global economy is influenced by actors using various blockchains, then the way capital markets work today could also change. Borders and jurisdictions may become less relevant as more assets become tradable and trading across borders grows increasingly frictionless. In an age where people can move significant amounts of wealth instantly using Bitcoin, global consumers will likely demand the same efficiency for their securities and similar asset holdings.
 
