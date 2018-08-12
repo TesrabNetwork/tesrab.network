@@ -142,10 +142,6 @@ Some examples of unique tokens:
 
 *  Imagine an art dealer issues the asset named ART. The dealer can then make unique ART assets by attaching a name or a serialized number to each piece of art. These unique tokens can be transferred to the new owner along with the artwork as a proof of authenticity. The tokens ART:MonaLisa and ART:VenusDeMilo are not fungible and represent distinct pieces of art.
 
-*  A software developer can issue the asset with the name of their software ABCGAME, and then assign each ABCGAME token a unique id or license key. The game tokens could be transferred as the license transfers. Each token ABCGAME:398222 and ABCGAME:423655 are unique tokens.
-
-*  In game assets. A game ZYX_GAME could create unique limited edition in-game assets that are owned and used by the game player. Example: ZYX_GAME:SwordOfTruth005 and ZYX_GAME:HammerOfThor These in game assets could then be kept, traded with other players via QR codes and wallets or uploaded into an upgrade or different version of a game.
-
 *  RVN based unique assets can be tied to real world assets. Create an asset named GOLDVAULT. Each gold coin or gold bar in a vault can be serialized and audited. Associated unique assets GOLDVAULT:444322 and GOLDVAULT:555994 can be created to represent the specific assets in the physical gold vault. The public nature of the chain allows for full transparency.
 
 Example:
@@ -200,7 +196,7 @@ As capabilities like messaging, assets, and rewards are added, privacy will be p
 
 ## 11. Conclusion
 
-Tesradex is a platform project built on the UTXO[19] model of Bitcoin. Modifying code to add these capabilities is not practical, but Tesradex is built from a code fork and issuing TNW. Tesradex will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed allow users and developers to maintain a secure, decentralized, and tamper resistant network.
+Tesradex is a platform project built on the UTXO[19] model of Bitcoin. Modifying code to add these capabilities is not practical, but Tesradex is built from a code fork and issuing TNW. Tesradex will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed to allow users and developers to maintain a secure, decentralized, and tamper resistant network.
 
 The Tesrab Network project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesrab Network blockchain.
 
