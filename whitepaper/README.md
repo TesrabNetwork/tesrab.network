@@ -94,10 +94,6 @@ Utilize proof of work mining, not because it burns a scarce resource of electric
 
 ## 5. Asset Issuance & Transfer
 
-<p align="center"><i>
-Deep into that darkness peering, long I stood there wondering, fearing, Doubting, dreaming dreams no mortal ever dared to dream before; But the silence was unbroken, and the stillness gave no token.  
-\- Edgar Allen Poe, The Raven
-</i></p>
 Token names are guaranteed unique. The first to issue a token with a given name is the owner of that token project.
 
 The issuer of a token burns TNW and must provide a unique token name. The issuer determines the quantity issued, the number of decimal places, and whether they will be allowed to issue more of the same token in the future.
