@@ -35,11 +35,6 @@ The use of a decentralized approach in the entity of an exchange helps to avoid 
 
 
 ## 3. Full Asset Aware Protocol Level System
-
-<p align="center"><i>
-Who will not change a raven for a dove? The will of man is by his reason swayed.  
-– William Shakespeare
-</i></p>
 The solution is to create a bitcoin-like system that is fully asset aware. A system being asset aware provides two major advantages. First, it allows the client and RPC commands to protect the asset from being destroyed accidentally. Second, it allows a single native client to issue, track, and transfer the assets.
 Lastly, to provide security for the underlying assets, the bitcoin-like system functions only with a market value, a strong mining community, and wide distribution.  
   
