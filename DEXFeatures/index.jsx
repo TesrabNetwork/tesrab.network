@@ -25,10 +25,10 @@ const DEXFeatures = () => (
       <AvatarTitleText
         avatar={<IconProduct name="noLimits" />}
         title={
-          <FormattedMessage id="products.dex.features.tradeNoLimits.title" />
+          <FormattedMessage id="dex.features.tradeNoLimits.title" />
         }
         text={
-          <FormattedMessage id="products.dex.features.tradeNoLimits.text" />
+          <FormattedMessage id="dex.features.tradeNoLimits.text" />
         }
         inverted
       />
