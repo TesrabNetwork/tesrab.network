@@ -39,8 +39,8 @@ const DEXFeatures = () => (
     <Col xs={12} sm={6}>
       <AvatarTitleText
         avatar={<IconProduct name="fees" />}
-        title={<FormattedMessage id="products.dex.features.fees.title" />}
-        text={<FormattedMessage id="products.dex.features.fees.text" />}
+        title={<FormattedMessage id="dex.features.fees.title" />}
+        text={<FormattedMessage id="dex.features.fees.text" />}
         inverted
       />
       <Margin bottom={5} />
