@@ -51,9 +51,9 @@ const DEXFeatures = () => (
       <AvatarTitleText
         avatar={<IconProduct name="invisible" />}
         title={
-          <FormattedMessage id="products.dex.features.frontRunning.title" />
+          <FormattedMessage id="dex.features.frontRunning.title" />
         }
-        text={<FormattedMessage id="products.dex.features.frontRunning.text" />}
+        text={<FormattedMessage id="dex.features.frontRunning.text" />}
         inverted
       />
       <Margin bottom={5} />
