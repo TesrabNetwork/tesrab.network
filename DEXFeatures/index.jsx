@@ -13,8 +13,8 @@ const DEXFeatures = () => (
       <Margin bottom={3} xsOnly />
       <AvatarTitleText
         avatar={<IconProduct name="safe" />}
-        title={<FormattedMessage id="products.dex.features.security.title" />}
-        text={<FormattedMessage id="products.dex.features.security.text" />}
+        title={<FormattedMessage id="dex.features.security.title" />}
+        text={<FormattedMessage id="dex.features.security.text" />}
         inverted
       />
       <Margin bottom={5} />
