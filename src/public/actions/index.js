@@ -68,10 +68,6 @@ export const submitResumeClick = createAC(SUBMIT_RESUME_CLICK);
 export const subscribe = createAC(SUBSCRIBE);
 export const feedbackFormSubmit = createAC(FEEDBACK_FORM_SUBMIT);
 
-// telegram
-export const joinTelegramClick = createAC(TELEGRAM_POPUP_JOIN_CLICK);
-export const closeTelegramClick = createAC(TELEGRAM_POPUP_CLOSE);
-
 // export const giveFeedbackShow = createAC(GIVE_FEEDBACK_SHOW);
 // export const giveFeedbackClick = createAC(GIVE_FEEDBACK_CLICK);
 // export const giveFeedbackClose = createAC(GIVE_FEEDBACK_CLOSE);
