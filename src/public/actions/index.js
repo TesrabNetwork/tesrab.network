@@ -27,10 +27,6 @@ export const SUBMIT_RESUME_CLICK = 'SubmitResumeClick';
 export const SUBSCRIBE = 'Subscribe';
 export const FEEDBACK_FORM_SUBMIT = 'FeedbackFormSubmit';
 
-// telegram
-export const TELEGRAM_POPUP_JOIN_CLICK = 'TelegramPopup.Join.Click';
-export const TELEGRAM_POPUP_CLOSE = 'TelegramPopup.Close';
-
 // export const GIVE_FEEDBACK_CLICK = 'GiveFeedbackClick';
 // export const GIVE_FEEDBACK_CLOSE = 'GiveFeedbackClose';
 // export const GIVE_FEEDBACK_SHOW = 'GiveFeedbackShow';
