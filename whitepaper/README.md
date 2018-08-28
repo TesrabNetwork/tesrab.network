@@ -137,9 +137,9 @@ Some examples of unique tokens:
 
 Example:
 
-The holder of the token CAR could issue a unique token for each car by including the VIN number.
+The holder of the token TNW could issue a unique token for each car by including the VIN number.
 
-Example: CAR:19UYA31581L000000
+Example: TNW:19UYA31581L000000
 
 Some use cases for unique assets include:
 
