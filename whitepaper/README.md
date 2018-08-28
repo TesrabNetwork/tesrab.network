@@ -150,10 +150,6 @@ Some use cases for unique assets include:
 
 ## 8. Messaging Stakeholders
 
-<p align="center"><i>
-"If the Tower of London ravens are lost or fly away, the Crown will fall and Britain with it." -
-Unknown
-</i></p>
 A common problem with tokens/assets is that the token issuer cannot communicate with the token holders. This must be handled very carefully because the token holders do not always wish to be identified. The communication should allow the token holder to opt-out at any time. The message system should only allow select parties to use the message channel so that it is not a spam conduit.
 
 
