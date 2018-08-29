@@ -13,7 +13,7 @@ const styles = theme => ({
   noPadding: { padding: 0 },
   buttonWrapper: {
     display: 'inline-block',
-    verticalAlign: 'middle',
+    verticalAlign: 'centre',
   },
 });
 
