@@ -103,8 +103,6 @@ Fair and open source crypto projects can replace bosses, rulers, employees & cor
 
 So, in some cases, whether one is selflessly, or selfishly motivated, open source may be a better model for many new and interesting types of projects than other structures. Tesrab Network will allow projects to issue tokens to represent co-ops, corporations or partnerships.
 
-Co-ops, for example, are a common organization form in which employees and participants are owners. Large organizations such as Credit Agricole, REI, Land O' Lakes, Ace Hardware, Co-op Kobe, Sunkist and Ocean Spray are structured as co-ops. Despite offering many advantages to participants, co-ops are sometimes difficult to structure and maintain. Tokenizing co-op interests opens many new ways this structure can be used to allocate resources and capital. Since the rules for each token can be changed by each issuer and the record keeping is done on the Tesrab Network blockchain with the work distributed, organizations can adapt and deploy a variety of participation structures.
-
 In addition, since the tokens can be made either unique, limited, or fungible by the issuer, token project managers will be able to have categories of token holders such as “Class A Shareholders”, “Lifetime social club members”, “Benefactors”, or “Holders of __ in game item”.
 
 Tokens allow easier issuance of small scale public offerings.
