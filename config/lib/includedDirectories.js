@@ -1,4 +1,4 @@
-const { join } = require('path');
+const { include } = require('path');
 
 module.exports = [
   join(__dirname, '../../src/public'),
