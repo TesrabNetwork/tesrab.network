@@ -1,6 +1,6 @@
 import React from 'react';
 import { Row, Col } from 'src/common/components/Grid';
-import Typography from 'src/common/components/Typography';
+import Typograph from 'src/common/components/Typograph';
 import Margin from 'src/common/components/Margin';
 
 import { FormattedMessage, FormattedNumber } from 'react-intl';
