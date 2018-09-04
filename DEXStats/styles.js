@@ -1,7 +1,7 @@
 export default function(theme) {
   return {
     number: {
-      marginBottom: theme.spacing.unit * 1.5,
+      marginBottom: theme.spacing.unit * 2.0,
       fontSize: 30,
     },
     [theme.mixins.atMedia('md')]: {
