@@ -71,7 +71,7 @@ many free market countries)
 *  Airline miles
 *  Reward points
 
-Satoshi Nakamoto described bitcoin as an implementation of Wei Dai’s bmoney [10], designed to afford users more control, security, and privacy than more centralized systems. A design with the potential to prevent violence and discrimination, given the holder of bitcoin remains private. Tesrab Network aims to continue this implementation by focusing on assets other than cash, providing a platform that users can easily issue assets they control under the rules they establish on a secure blockchain.
+Satoshi Nakamoto described bitcoin as an implementation of Wei Dai’s bmoney [10], designed to afford users more control, security, and privacy than more centralized systems. A design with the potential to prevent violence and discrimination, given the holder of bitcoin remains private. Tesradex aims to continue this implementation by focusing on assets other than cash, providing a platform that users can easily issue assets they control under the rules they establish on a secure blockchain.
 
 ## 4. Tesradex Launch and Algorithm
 
