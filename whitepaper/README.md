@@ -83,7 +83,7 @@ Create a platform like Bitcoin with a new mining algorithm, x16r[13], intended t
 
 Launch the token with no pre-mine and a fair launch to widely distribute the tokens.
 
-Allow the mining rate to increase and the value of the TNW token to naturally grow and gradually disburse to holders that understand the value of the platform.
+Allow the mining rate to increase and the value of the TRDX token to naturally grow and gradually disburse to holders that understand the value of the platform.
 
 Utilize proof of work mining, not because it burns a scarce resource of electricity, or the requirement of computer hardware, but instead focuses on the most valuable part of the "work" which is building an ever-larger and time-based wall that protects user data from future tampering and censorship with every new layer.
 
