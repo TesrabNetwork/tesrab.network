@@ -177,7 +177,7 @@ As capabilities like messaging, assets, and rewards are added, privacy will be p
 
 ## 11. Conclusion
 
-Tesradex is a platform project built on the UTXO[19] model of Bitcoin. Modifying code to add these capabilities is not practical, but Tesradex is built from a code fork and issuing TNW. Tesradex will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed to allow users and developers to maintain a secure, decentralized, and tamper resistant network.
+Tesradex is a platform project built on the UTXO[19] model of Bitcoin. Modifying code to add these capabilities is not practical, but Tesradex is built from a code fork and issuing TRDX. Tesradex will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed to allow users and developers to maintain a secure, decentralized, and tamper resistant network.
 
 The Tesradex project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesradex blockchain.
 
@@ -192,4 +192,4 @@ References
 [3] Tesradex: A fully functional decentralized exchange as an open blockchain platform. https://medium.com/tesrab-network/54d74964f72e    
 [4] N. Szabo, “Secure Property Titles with Owner Authority” [http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50](http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.50)  
 [5] E. Hughes https://www.activism.net/cypherpunk/manifesto.html   
-[6] https://github.com/tesrabnetwork/tesrab-network 
+[6] https://github.com/tesrabnetwork/tesradex 
