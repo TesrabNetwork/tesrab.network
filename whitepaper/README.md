@@ -131,7 +131,7 @@ Some examples of unique tokens:
 
 Example:
 
-The holder of the token TNW could issue a unique token for each car by including the VIN number.
+The holder of the token TRDX could issue a unique token for each car by including the VIN number.
 
 Example: TRDX:19UYA31581L000000
 
