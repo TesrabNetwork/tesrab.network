@@ -115,7 +115,7 @@ Only an open protocol will work in a global economy where there are multiple jur
 
 ## 6. Rewards
 
-Allow the payment of rewards (or dividends) in the native token. With a single command the reward, denominated in TNW, is automatically divided evenly and sent pro-rata to the holders of the asset.
+Allow the payment of rewards (or dividends) in the native token. With a single command the reward, denominated in TRDX, is automatically divided evenly and sent pro-rata to the holders of the asset.
 
 For such a global system to work it will need to be independent of regulatory jurisdictions. This is not due to ideological belief, but practicality: if the rails for blockchain asset transfer are not censorship resistant and jurisdiction agnostic, any given jurisdiction may conflict with another. In legacy systems, wealth was generally confined in the jurisdiction of the holder and therefore easy to control based on the policies of that jurisdiction. Because of the global nature of blockchain technology, any protocol level ability to control wealth will potentially place jurisdictions in conflict and will not be able to operate fairly.
 
