@@ -179,7 +179,7 @@ As capabilities like messaging, assets, and rewards are added, privacy will be p
 
 Tesradex is a platform project built on the UTXO[19] model of Bitcoin. Modifying code to add these capabilities is not practical, but Tesradex is built from a code fork and issuing TNW. Tesradex will be adding assets, rewards, unique assets, messaging, and voting. The Tesradex protocol’s capabilities will be rolled out in phases which will be done as a planned hard fork upgrade. The code base is designed to allow users and developers to maintain a secure, decentralized, and tamper resistant network.
 
-The Tesrab Network project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesradex blockchain.
+The Tesradex project can also serve as a base and starting point for projects, second layer solutions, experiments, and business ideas which might benefit from either the Bitcoin-based code base with adjustments or the native additional features added to the Tesradex blockchain.
 
 _In open source, the power of the crowd can accomplish much more than any one person or organization. All are welcome to contribute._
 
