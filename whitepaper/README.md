@@ -91,7 +91,7 @@ Utilize proof of work mining, not because it burns a scarce resource of electric
 
 Token names are guaranteed unique. The first to issue a token with a given name is the owner of that token project.
 
-The issuer of a token burns TNW and must provide a unique token name. The issuer determines the quantity issued, the number of decimal places, and whether they will be allowed to issue more of the same token in the future.
+The issuer of a token burns TRDX and must provide a unique token name. The issuer determines the quantity issued, the number of decimal places, and whether they will be allowed to issue more of the same token in the future.
 
 Allow the issuance of other tokens using similar method as Mastercoin, Counterparty, or CoinSpark[14].
 
