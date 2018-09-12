@@ -101,7 +101,7 @@ The combination of open source and crypto enables interests to be aligned in way
 
 Fair and open source crypto projects can replace bosses, rulers, employees & corporate structure with aligned interests & economic choice for participants.
 
-So, in some cases, whether one is selflessly, or selfishly motivated, open source may be a better model for many new and interesting types of projects than other structures. Tesrab Network will allow projects to issue tokens to represent co-ops, corporations or partnerships.
+So, in some cases, whether one is selflessly, or selfishly motivated, open source may be a better model for many new and interesting types of projects than other structures. Tesradex will allow projects to issue tokens to represent co-ops, corporations or partnerships.
 
 In addition, since the tokens can be made either unique, limited, or fungible by the issuer, token project managers will be able to have categories of token holders such as “Class A Shareholders”, “Lifetime social club members”, “Benefactors”, or “Holders of __ in game item”.
 
