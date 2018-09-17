@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Tesrab Network Core Developers<br>
+Tesradex Developers<br>
 https://tesrab.network/<br>
 1st July 2018
 </p> 
