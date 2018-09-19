@@ -57,7 +57,6 @@ rather than a physical stock certificate
 *  A token which represents a crowd-funded item with the ability to transfer or resell the item
 
 **Representing virtual goods**
-*  Tickets to an event such as a Baltimore Ravens game with the ability to resell
 *  A license to allow an activity
 *  An access token to use a service
 *  In-game currency and items, transferable outside of the game platform
