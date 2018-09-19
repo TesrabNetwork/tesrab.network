@@ -53,8 +53,6 @@ Assets or tokens can be used for anything the creator’s imagination can conjur
 **Representing a share of a project**
 *  Securities tokens: stock or shares of a company where the shares are represented by a token
 rather than a physical stock certificate
-*  Securities or partnership interests with the built-in ability to pay dividends in TRDX (legal in
-many free market countries)
 *  Tokens which represent a coop, limited partnership, royalty sharing or profit sharing platform
 *  A token which represents a crowd-funded item with the ability to transfer or resell the item
 
