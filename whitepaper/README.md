@@ -49,8 +49,6 @@ Assets or tokens can be used for anything the creator’s imagination can conjur
 *  Silver coins
 *  Physical Euros
 *  Land Deeds
-*  DC Comics Presents #26
-*  Energy credits (Electricity, Wood, Gas, Oil, Wind)
 
 **Representing a share of a project**
 *  Securities tokens: stock or shares of a company where the shares are represented by a token
