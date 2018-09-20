@@ -104,8 +104,6 @@ Tokens allow easier issuance of small scale public offerings.
 
 “In the future the size distribution of multinationals will approach that of local business. The phase change between these states may be quite rapid as telecom and transport costs pass through a "melting point", creating a wide variety of new multinational small businesses, and industries to support those businesses.” Nick Szabo, Secure Property Titles with Owner Authority, 1998[15].
 
-This also could decrease fraud, Economist Dr. Robert Shapiro noted significant evidence of Wall St. fraud which can be tied to custody issues (Patrick Byrne, PhD [16]).
-
 Only an open protocol will work in a global economy where there are multiple jurisdictions, each with complex and conflicting regulations.
 
 ## 6. Rewards
