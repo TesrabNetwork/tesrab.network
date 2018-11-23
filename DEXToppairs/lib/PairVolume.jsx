@@ -14,7 +14,7 @@ const styles = theme => ({
   },
   assets: {
     flex: 1,
-    textTransform: 'uppercase',
+    textTransform: 'lowercase',
     letterSpacing: '1px',
     lineHeight: 1,
   },

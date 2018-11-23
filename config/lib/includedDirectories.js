@@ -1,7 +1,7 @@
-const { join } = require('path');
+const { include } = require('path');
 
 module.exports = [
-  join(__dirname, '../../src/public'),
-  join(__dirname, '../../src/common'),
-  join(__dirname, '../../node_modules/swiper'),
+  include(__dirname, '../../src/public'),
+  include(__dirname, '../../src/common'),
+  include(__dirname, '../../node_modules/swiper'),
 ];

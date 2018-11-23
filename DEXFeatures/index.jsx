@@ -13,8 +13,8 @@ const DEXFeatures = () => (
       <Margin bottom={3} xsOnly />
       <AvatarTitleText
         avatar={<IconProduct name="safe" />}
-        title={<FormattedMessage id="products.dex.features.security.title" />}
-        text={<FormattedMessage id="products.dex.features.security.text" />}
+        title={<FormattedMessage id="dex.features.security.title" />}
+        text={<FormattedMessage id="dex.features.security.text" />}
         inverted
       />
       <Margin bottom={5} />
@@ -25,10 +25,10 @@ const DEXFeatures = () => (
       <AvatarTitleText
         avatar={<IconProduct name="noLimits" />}
         title={
-          <FormattedMessage id="products.dex.features.tradeNoLimits.title" />
+          <FormattedMessage id="dex.features.tradeNoLimits.title" />
         }
         text={
-          <FormattedMessage id="products.dex.features.tradeNoLimits.text" />
+          <FormattedMessage id="dex.features.tradeNoLimits.text" />
         }
         inverted
       />
@@ -39,8 +39,8 @@ const DEXFeatures = () => (
     <Col xs={12} sm={6}>
       <AvatarTitleText
         avatar={<IconProduct name="fees" />}
-        title={<FormattedMessage id="products.dex.features.fees.title" />}
-        text={<FormattedMessage id="products.dex.features.fees.text" />}
+        title={<FormattedMessage id="dex.features.fees.title" />}
+        text={<FormattedMessage id="dex.features.fees.text" />}
         inverted
       />
       <Margin bottom={5} />
@@ -51,9 +51,9 @@ const DEXFeatures = () => (
       <AvatarTitleText
         avatar={<IconProduct name="invisible" />}
         title={
-          <FormattedMessage id="products.dex.features.frontRunning.title" />
+          <FormattedMessage id="dex.features.frontRunning.title" />
         }
-        text={<FormattedMessage id="products.dex.features.frontRunning.text" />}
+        text={<FormattedMessage id="dex.features.frontRunning.text" />}
         inverted
       />
       <Margin bottom={5} />
