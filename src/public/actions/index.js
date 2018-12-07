@@ -6,7 +6,7 @@ export const ELECTRON_CLIENT_WINDOWS_CLICK = 'GetClient.Windows.Click';
 export const ELECTRON_CLIENT_MAC_CLICK = 'GetClient.Mac.Click';
 export const ELECTRON_CLIENT_LINUX_CLICK = 'GetClient.Linux.Click';
 
-export const GET_TNW_CLICK = 'GetTNWClick';
+export const GET_TDEX_CLICK = 'GetTDEXClick';
 export const ANDROID_CLIENT_CLICK = 'GetClient.Android.Click';
 export const IOS_CLIENT_CLICK = 'GetClient.Ios.Click';
 
@@ -40,7 +40,7 @@ const createAC = type => meta => ({
 // our products
 export const newClientClick = createAC(ONLINE_BETA_CLIENT_CLICK);
 export const getClientClick = createAC(ONLINE_CLIENT_CLICK);
-export const getTNWClick = createAC(GET_TNW_CLICK);
+export const getTDEXClick = createAC(GET_TDEX_CLICK);
 export const androidClientClick = createAC(ANDROID_CLIENT_CLICK);
 export const iosClientClick = createAC(IOS_CLIENT_CLICK);
 export const getElectronWindowsClick = createAC(ELECTRON_CLIENT_WINDOWS_CLICK);
