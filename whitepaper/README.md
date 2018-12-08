@@ -76,7 +76,7 @@ Tesrab Network announced Tesradex on October 31, 2017[11] and released binaries 
 
 Create a platform like Bitcoin with a new mining algorithm, x16r[13], intended to prevent immediate dominance by mining pools, and future dominance by ASIC mining equipment.
 
-Launch the token with no pre-mine and a fair launch to widely distribute the tokens.
+Launch the token, TesraCoin, with no pre-mine and a fair launch to widely distribute the tokens.
 
 Allow the mining rate to increase and the value of the TRDX token to naturally grow and gradually disburse to holders that understand the value of the platform.
 
