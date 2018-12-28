@@ -6,7 +6,7 @@ export default function(theme) {
     },
     [theme.mixins.atMedia('md')]: {
       number: {
-        fontWeight: 400,
+        fontWeight: 350,
       },
     },
   };
