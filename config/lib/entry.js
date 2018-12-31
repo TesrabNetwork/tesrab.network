@@ -7,7 +7,7 @@ module.exports = {
   token: 'src/public/entries/products/token',
   dex: 'src/public/entries/products/tersadex',
   smartContracts: 'src/public/entries/smartContracts',
-  getWaves: 'src/public/entries/getWaves',
+  getTesraCoin: 'src/public/entries/getTesraCoin',
   error404: 'src/public/entries/error404',
   wavesNG: 'src/public/entries/wavesNG',
   mining: 'src/public/entries/mining',
