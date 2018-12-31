@@ -52,7 +52,7 @@ export const apiDocumentationClick = createAC(API_DOCUMENTATION_CLICK);
 export const apiClientClick = createAC(API_CLIENT_CLICK);
 export const dexApiClick = createAC(DEX_API_CLICK);
 export const TesradexNodeClick = createAC(TESRADEX_NODE_CLICK);
-export const TesrabNodeInstallClick = createAC(TESRAB_NODE_INSTALL_CLICK);
+export const TesradexNodeInstallClick = createAC(TESRAB_NODE_INSTALL_CLICK);
 
 // files downloads
 export const whitepaperDownload = createAC(WHITEPAPER_DOWNLOAD);
