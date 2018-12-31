@@ -13,8 +13,8 @@ export const IOS_CLIENT_CLICK = 'GetClient.Ios.Click';
 // developers
 export const API_DOCUMENTATION_CLICK = 'DocumentationClick';
 export const API_CLIENT_CLICK = 'ClientApiClick';
-export const TESRADEX_NODE_CLICK = 'TesrabNodeClick';
-export const TESRADEX_NODE_INSTALL_CLICK = 'TesrabNodeInstallClick';
+export const TESRADEX_NODE_CLICK = 'TesradexNodeClick';
+export const TESRADEX_NODE_INSTALL_CLICK = 'TesradexNodeInstallClick';
 export const DEX_API_CLICK = 'DexApiClick';
 
 // files downloads
