@@ -20,7 +20,7 @@ const DEXStats = ({ classes, dexData }) => (
               values={{
                 price: (
                   <FormattedNumber
-                    value={dexData.wavesBtcRate}
+                    value={dexData.tesracoinBtcRate}
                     maximumFractionDigits={8}
                   />
                 ),
