@@ -16,7 +16,7 @@ const DEXStats = ({ classes, dexData }) => (
           <Margin bottom={1} xsOnly />
           <Typography type="numeral" className={classes.number} inverted>
             <FormattedMessage
-              id="products.dex.wavesPrice.number"
+              id="products.dex.TesracoinPrice.number"
               values={{
                 price: (
                   <FormattedNumber
