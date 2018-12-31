@@ -9,7 +9,6 @@ module.exports = {
   smartContracts: 'src/public/entries/smartContracts',
   getTesraCoin: 'src/public/entries/getTesraCoin',
   error404: 'src/public/entries/error404',
-  : 'src/public/entries/',
   mining: 'src/public/entries/mining',
   leasing: 'src/public/entries/leasing',
 };
