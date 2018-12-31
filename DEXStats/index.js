@@ -28,7 +28,7 @@ const DEXStats = ({ classes, dexData }) => (
             />
           </Typography>
           <Typography type="body" inverted>
-            <FormattedMessage id="products.dex.wavesPrice.label" />
+            <FormattedMessage id="products.dex.TesracoinPrice.label" />
           </Typography>
           <Margin bottom={3} xsOnly />
         </Col>
